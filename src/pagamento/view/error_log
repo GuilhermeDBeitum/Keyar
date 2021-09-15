@@ -1,0 +1,56 @@
+[29-May-2020 18:09:51 UTC] PHP Notice:  Undefined variable: valor in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 30
+[29-May-2020 18:09:51 UTC] PHP Notice:  Undefined variable: valor in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 31
+[29-May-2020 18:11:49 UTC] PHP Notice:  Undefined variable: valor in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 30
+[29-May-2020 18:17:48 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 29
+[29-May-2020 18:17:48 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 31
+[29-May-2020 18:18:21 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 29
+[29-May-2020 18:18:21 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 31
+[29-May-2020 18:18:45 UTC] PHP Recoverable fatal error:  Object of class Retorno could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 29
+[29-May-2020 18:19:12 UTC] PHP Recoverable fatal error:  Object of class Retorno could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 31
+[29-May-2020 18:19:38 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 31
+[29-May-2020 18:19:38 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 33
+[29-May-2020 18:36:52 UTC] PHP Fatal error:  Can't use function return value in write context in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 22
+[29-May-2020 18:42:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Retorno as array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 24
+[29-May-2020 18:43:42 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Retorno::$registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 24
+[29-May-2020 19:06:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 40
+[29-May-2020 19:09:45 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 28
+[29-May-2020 19:10:50 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 28
+[29-May-2020 19:13:05 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 33
+[29-May-2020 19:13:59 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 33
+[29-May-2020 21:39:49 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 33
+[29-May-2020 21:40:24 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 33
+[29-May-2020 21:40:48 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 33
+[29-May-2020 21:41:10 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 33
+[29-May-2020 21:42:02 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 33
+[29-May-2020 21:42:16 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 33
+[31-May-2020 23:28:47 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:28:47 UTC] PHP Warning:  Use of undefined constant dados - assumed 'dados' (this will throw an Error in a future version of PHP) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 12
+[31-May-2020 23:30:12 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 12
+[31-May-2020 23:30:12 UTC] PHP Warning:  Use of undefined constant dados - assumed 'dados' (this will throw an Error in a future version of PHP) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 13
+[31-May-2020 23:30:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 174
+[31-May-2020 23:30:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.js:1) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 176
+[31-May-2020 23:30:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 182
+[31-May-2020 23:30:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.js:1) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 183
+[31-May-2020 23:30:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 12
+[31-May-2020 23:30:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 12
+[31-May-2020 23:30:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 13
+[31-May-2020 23:30:46 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 12
+[31-May-2020 23:30:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 174
+[31-May-2020 23:30:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.js:1) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 176
+[31-May-2020 23:30:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 182
+[31-May-2020 23:30:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.js:1) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 183
+[31-May-2020 23:30:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 12
+[31-May-2020 23:30:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 12
+[31-May-2020 23:30:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VAuxiliarEfetuarPagamento.php on line 13
+[31-May-2020 23:31:10 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:35:50 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:38:34 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:40:29 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:40:54 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:42:08 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11

@@ -1,0 +1,627 @@
+[28-May-2020 19:12:37 UTC] PHP Fatal error:  Uncaught Error: Cannot instantiate interface ControllerBase in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:28:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 64
+[28-May-2020 19:33:36 UTC] PHP Fatal error:  Uncaught Error: Cannot instantiate interface ControllerBase in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:33:59 UTC] PHP Fatal error:  Uncaught Error: Class 'executarAcao' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:34:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function executarAcao(), 1 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8 and exactly 2 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:21
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(8): executarAcao('visualizarPedid...')
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 21
+[28-May-2020 19:34:45 UTC] PHP Notice:  Undefined variable: acao in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:34:45 UTC] PHP Notice:  Undefined variable: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:34:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(22): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(8): executarAcao(NULL, NULL)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[28-May-2020 19:35:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function executarAcao(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8 and exactly 2 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:21
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(8): executarAcao()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 21
+[28-May-2020 19:35:37 UTC] PHP Notice:  Undefined variable: acao in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:35:37 UTC] PHP Notice:  Undefined variable: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(22): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(8): executarAcao(NULL, NULL)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[28-May-2020 19:36:28 UTC] PHP Notice:  Undefined variable: acao in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:36:28 UTC] PHP Notice:  Undefined variable: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:36:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(22): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(8): executarAcao(NULL, NULL)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[28-May-2020 19:36:50 UTC] PHP Notice:  Undefined variable: acao in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:36:50 UTC] PHP Notice:  Undefined variable: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(22): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(8): executarAcao(NULL, NULL)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[28-May-2020 19:37:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function executarAcao(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8 and exactly 2 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:21
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(8): executarAcao()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 21
+[28-May-2020 19:41:02 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[28-May-2020 19:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:42:56 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php:12
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 12
+[28-May-2020 19:43:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function executarAcao(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8 and exactly 2 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:21
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(8): executarAcao()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 21
+[28-May-2020 19:43:23 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php:12
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 12
+[28-May-2020 19:44:10 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:44:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[28-May-2020 19:44:32 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:45:16 UTC] PHP Notice:  Undefined variable: teste in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 9
+[28-May-2020 19:45:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function executarAcao() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 9
+[28-May-2020 19:45:41 UTC] PHP Fatal error:  Uncaught Error: Cannot instantiate interface ControllerBase in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[29-May-2020 00:17:49 UTC] PHP Warning:  require_once(/home/u208484937/domains/guilhermedouglas.com/public_html/src/base/status.php): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 6
+[29-May-2020 00:17:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u208484937/domains/guilhermedouglas.com/public_html/src/base/status.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 6
+[29-May-2020 03:03:53 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:03:53 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:03:53 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:03:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 03:04:41 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:04:41 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:04:41 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:04:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 03:05:30 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:05:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:06:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(200): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 03:06:22 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:06:22 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:06:22 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:06:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 03:07:01 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:07:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:08:56 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 03:08:56 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined offset: 0 in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 03:08:56 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:08:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:09:54 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 03:09:54 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined offset: 0 in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 03:09:54 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:09:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:10:08 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 03:10:08 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined offset: 0 in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 03:10:08 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:10:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:12:10 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:10 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:10 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Retorno::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:201
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:12:25 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:25 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:25 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Retorno::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:201
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:12:28 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:28 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:28 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Retorno::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:201
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:12:38 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:38 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:38 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Retorno::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:201
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 03:12:49 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:49 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:49 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:12:49 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:12:49 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:210
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 210
+[29-May-2020 03:13:23 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:13:23 UTC] PHP Notice:  Undefined variable: stringvet in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 207
+[29-May-2020 03:13:23 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:210
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php(3): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/visualizar_pedido.php(2): require('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 210
+[29-May-2020 03:13:58 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:13:58 UTC] PHP Notice:  Undefined variable: stringvet in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 207
+[29-May-2020 03:13:58 UTC] PHP Notice:  Undefined index: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 210
+[29-May-2020 03:13:58 UTC] PHP Notice:  Undefined index: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 211
+[29-May-2020 03:13:58 UTC] PHP Notice:  Undefined index: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 212
+[29-May-2020 03:13:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:14:39 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:14:39 UTC] PHP Notice:  Undefined variable: stringvet in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 207
+[29-May-2020 03:14:39 UTC] PHP Notice:  Undefined index: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 210
+[29-May-2020 03:14:39 UTC] PHP Notice:  Undefined index: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 211
+[29-May-2020 03:14:39 UTC] PHP Notice:  Undefined index: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 212
+[29-May-2020 03:14:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:14:58 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:14:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:15:40 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:15:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:05:54 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 06:05:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 23:49:33 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 104
+[29-May-2020 23:49:34 UTC] PHP Notice:  Undefined index: idcliente in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 31
+[29-May-2020 23:49:34 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[29-May-2020 23:49:34 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[29-May-2020 23:49:34 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 01:43:13 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 104
+[30-May-2020 01:43:13 UTC] PHP Notice:  Undefined index: idcliente in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 31
+[30-May-2020 01:43:13 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 01:43:13 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 01:43:13 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 88
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 95
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 88
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 95
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 88
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 95
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 88
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 95
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 01:45:32 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:24:55 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 104
+[30-May-2020 02:24:55 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 02:24:55 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 02:24:55 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 02:26:20 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 104
+[30-May-2020 02:26:20 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 02:26:20 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 02:26:20 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 02:29:47 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 104
+[30-May-2020 02:29:47 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 02:29:47 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 02:29:47 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 02:31:36 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 104
+[30-May-2020 02:31:36 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 02:31:36 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 02:31:36 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:34:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:35:57 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 02:42:08 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:08:19 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 104
+[30-May-2020 03:08:19 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 03:08:19 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 03:08:19 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:44:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:46:20 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:49:47 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[30-May-2020 03:53:15 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 01:49:13 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 104
+[31-May-2020 01:49:13 UTC] PHP Notice:  Undefined index: idcliente in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 31
+[31-May-2020 01:49:13 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[31-May-2020 01:49:13 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[31-May-2020 01:49:13 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:54:42 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:55:56 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 06:57:21 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 89
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 90
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'status_pedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 96
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 97
+[31-May-2020 21:01:27 UTC] PHP Notice:  Trying to get property 'idpedido' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php on line 98
+[31-May-2020 22:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MPedido::beginTransaction() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:141
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(45): CPedido->visualizarTodosPedidos(Array)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VConfirmarRetirada.php(18): CPedido->executarAcao('visualizarTodos...', Array)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/confirmar_retirada.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 141
+[31-May-2020 22:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MPedido::beginTransaction() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:141
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(45): CPedido->visualizarTodosPedidos(Array)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VConfirmarRetirada.php(18): CPedido->executarAcao('visualizarTodos...', Array)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/confirmar_retirada.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 141
+[01-Jun-2020 00:06:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 95
+[01-Jun-2020 00:06:21 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 110
+[01-Jun-2020 00:06:30 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 95
+[01-Jun-2020 00:06:30 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 110
+[01-Jun-2020 00:08:32 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 95
+[01-Jun-2020 00:08:32 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 110
+[01-Jun-2020 00:08:57 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 95
+[01-Jun-2020 00:08:57 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 110
+[01-Jun-2020 00:09:15 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 95
+[01-Jun-2020 00:09:15 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 110
+[01-Jun-2020 00:09:22 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 95
+[01-Jun-2020 00:09:22 UTC] PHP Notice:  Trying to get property 'valor_total' of non-object in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VVisualizarPedido.php on line 110
+[01-Jun-2020 00:22:13 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(94): MPedido->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(25): CPedido->adicionarPedido(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarPedido.php(18): CPedido->executarAcao('adicionarPedido', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/gerenciar_pedidos.php(2): require_once('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 00:25:58 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CItemPedido.php(101): MItemPedido->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CItemPedido.php(26): CItemPedido->adicionarItemPedido(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/view/VGerenciarItemPedido.php(17): CItemPedido->executarAcao('adicionarItemPe...', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pedido/gerenciar_itens_pedido.php(2): require_once('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69

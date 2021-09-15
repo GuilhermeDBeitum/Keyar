@@ -1,0 +1,233 @@
+[28-May-2020 16:28:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:26
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(26): PDO->__construct('mysql:host=loca...', 'root', 'usbw')
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(15): MUsuario->__construct()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(5): CUsuario->__construct()
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 26
+[30-May-2020 01:47:43 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 01:47:43 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 01:47:43 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 01:48:51 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 01:48:51 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 01:48:51 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 01:51:32 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 01:51:32 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 01:51:32 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 01:52:22 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 01:52:22 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 01:52:22 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 02:00:05 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 02:00:05 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 02:00:05 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 02:19:30 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 02:19:30 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 02:19:30 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 02:20:51 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 02:20:51 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 02:20:51 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 02:22:56 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 02:22:56 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 02:22:56 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 03:27:01 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 03:27:01 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 03:27:01 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 03:39:33 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 03:39:33 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 03:39:33 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[30-May-2020 03:41:38 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[30-May-2020 03:41:38 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[30-May-2020 03:41:38 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[31-May-2020 06:21:36 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[31-May-2020 06:21:36 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[31-May-2020 06:21:36 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[31-May-2020 22:42:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:26
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(26): PDO->__construct('mysql:host=loca...', 'root', 'usbw')
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(17): MUsuario->__construct()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/main.php(5): CUsuario->__construct()
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 26
+[31-May-2020 22:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MUsuario::beginTransaction() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php:70
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 70
+[31-May-2020 22:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MUsuario::beginTransaction() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php:70
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 70
+[31-May-2020 22:48:24 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[31-May-2020 22:59:22 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[31-May-2020 23:51:05 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 00:10:09 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 00:11:45 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 00:24:33 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 00:28:20 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 00:39:02 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 00:39:48 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 01:12:07 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 01:28:57 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 02:25:34 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 02:26:15 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[01-Jun-2020 02:26:15 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[01-Jun-2020 02:26:15 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[01-Jun-2020 02:26:26 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[01-Jun-2020 02:26:26 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[01-Jun-2020 02:26:26 UTC] PHP Notice:  Undefined index: idPerfil in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[01-Jun-2020 02:27:11 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 02:48:34 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 03:23:04 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 03:27:56 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 03:30:19 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69
+[01-Jun-2020 03:31:59 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php:69
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php(69): PDO->rollBack()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(115): MUsuario->rollback()
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php(26): CUsuario->efetuarLogin(Array)
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/view/VUsuario.php(8): CUsuario->executarAcao('efetuarLogin', Array)
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/index.php(2): include('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/TGerenciadorConexaoBD.php on line 69

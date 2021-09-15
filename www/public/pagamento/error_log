@@ -1,0 +1,1196 @@
+[28-May-2020 18:34:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:12
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 12
+[28-May-2020 18:34:42 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:12
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 12
+[28-May-2020 18:35:02 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:12
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 12
+[28-May-2020 18:37:22 UTC] PHP Warning:  require_once(/home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/CPedido.php): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 4
+[28-May-2020 18:37:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/CPedido.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 4
+[28-May-2020 18:48:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 18:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 18:49:38 UTC] PHP Fatal error:  Uncaught Error: Class 'executarAcao' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 18:51:44 UTC] PHP Fatal error:  Uncaught Error: Class 'executarAcao' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 18:51:51 UTC] PHP Fatal error:  Uncaught Error: Class 'executarAcao' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 18:51:56 UTC] PHP Fatal error:  Uncaught Error: Class 'executarAcao' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 18:52:49 UTC] PHP Fatal error:  Uncaught Error: Class 'executarAcao' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 18:53:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 18:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'executarAcao' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 18:59:46 UTC] PHP Fatal error:  Uncaught Error: Cannot instantiate interface ControllerBase in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:01:31 UTC] PHP Warning:  include(class.CPedido.php): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:01:31 UTC] PHP Warning:  include(): Failed opening 'class.CPedido.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:01:31 UTC] PHP Fatal error:  Uncaught Error: Cannot instantiate interface ControllerBase in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:10
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 10
+[28-May-2020 19:01:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 65536 bytes) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:02:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 65536 bytes) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:06:41 UTC] PHP Fatal error:  Uncaught Error: Cannot instantiate interface ControllerBase in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:10:30 UTC] PHP Fatal error:  Uncaught Error: Cannot instantiate interface ControllerBase in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 19:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 20:51:13 UTC] PHP Fatal error:  Uncaught Error: Cannot instantiate interface ControllerBase in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 20:51:44 UTC] PHP Fatal error:  Uncaught Error: Class 'executarAcao' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 20:52:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 20:52:32 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 20:52:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 20:53:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 20:59:39 UTC] PHP Notice:  Undefined index: funcao in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 20:59:39 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, no array or string given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 20:59:39 UTC] PHP Notice:  Undefined index: parametros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 20:59:39 UTC] PHP Warning:  call_user_func_array() expects parameter 2 to be array, null given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:00:23 UTC] PHP Notice:  Undefined index: executarAcao in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:00:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, no array or string given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:00:23 UTC] PHP Notice:  Undefined index: data in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:00:23 UTC] PHP Warning:  call_user_func_array() expects parameter 2 to be array, null given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function visualizarPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:05:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:06:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function executarAcao(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7 and exactly 2 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:10
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(7): executarAcao()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 10
+[28-May-2020 21:06:47 UTC] PHP Notice:  Undefined variable: acao in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:06:47 UTC] PHP Notice:  Undefined variable: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:06:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(11): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(7): executarAcao(NULL, NULL)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[28-May-2020 21:07:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function executarAcao(), 1 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7 and exactly 2 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:10
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(7): executarAcao('visualizarPedid...')
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 10
+[28-May-2020 21:07:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(11): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(7): executarAcao('visualizarPedid...', 'visualizarPedid...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[28-May-2020 21:08:52 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:22
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(7): executarAcao('visualizarPedid...', 'visualizarPedid...')
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 22
+[28-May-2020 21:09:40 UTC] PHP Warning:  Use of undefined constant CPedido - assumed 'CPedido' (this will throw an Error in a future version of PHP) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:43:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 21:45:26 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 9
+[28-May-2020 21:45:42 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 21:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function on_encode() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 9
+[28-May-2020 23:47:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:8
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[28-May-2020 23:55:47 UTC] PHP Warning:  Use of undefined constant CPedido - assumed 'CPedido' (this will throw an Error in a future version of PHP) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 23:55:47 UTC] PHP Warning:  require_once(CPedido): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 23:55:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'CPedido' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 23:56:03 UTC] PHP Warning:  require_once(CPedido): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 23:56:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'CPedido' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 23:56:52 UTC] PHP Warning:  require_once(/home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controll/CPedido.php): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 23:56:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controll/CPedido.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[28-May-2020 23:57:10 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 9
+[29-May-2020 00:03:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CPedido' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[29-May-2020 00:03:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CPedido::executarAcao(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 2 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:19
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): CPedido->executarAcao()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 19
+[29-May-2020 00:04:37 UTC] PHP Notice:  Undefined variable: acao in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 00:04:37 UTC] PHP Notice:  Undefined variable: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 00:04:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(20): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): CPedido->executarAcao(NULL, NULL)
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[29-May-2020 00:04:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CPedido::executarAcao(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 2 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:19
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): CPedido->executarAcao()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 19
+[29-May-2020 00:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(20): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): CPedido->executarAcao('', '')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[29-May-2020 00:11:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(20): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): CPedido->executarAcao('', '')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[29-May-2020 00:11:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(20): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): CPedido->executarAcao('', '')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[29-May-2020 00:11:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(20): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): CPedido->executarAcao('', '')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[29-May-2020 00:11:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Status' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:11
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(20): Retorno->__construct(NULL, NULL, NULL)
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): CPedido->executarAcao('', '')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#4 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[29-May-2020 00:42:02 UTC] PHP Notice:  Undefined variable: valore in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 00:42:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 202
+[29-May-2020 00:43:03 UTC] PHP Notice:  Undefined variable: valore in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 202
+[29-May-2020 00:43:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 00:43:39 UTC] PHP Notice:  Undefined variable: valore in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 00:43:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 202
+[29-May-2020 00:43:55 UTC] PHP Notice:  Undefined variable: valore in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 00:43:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 202
+[29-May-2020 00:46:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 00:51:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 00:51:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 00:53:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 8
+[29-May-2020 00:53:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 00:58:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 00:59:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 00:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 7
+[29-May-2020 01:00:30 UTC] PHP Notice:  Undefined variable: controller in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 198
+[29-May-2020 01:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function executarAcao() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:198
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 198
+[29-May-2020 01:00:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 01:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 7
+[29-May-2020 01:01:33 UTC] PHP Notice:  Undefined variable: valor in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 01:01:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 01:01:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 7
+[29-May-2020 01:01:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 01:01:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 7
+[29-May-2020 01:03:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 7
+[29-May-2020 01:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 7
+[29-May-2020 01:04:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201
+[29-May-2020 01:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 7
+[29-May-2020 01:04:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 7
+[29-May-2020 01:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php:7
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once()
+#1 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php on line 7
+[29-May-2020 01:08:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:11:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:12:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:15:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:15:58 UTC] PHP Warning:  Use of undefined constant valorTotal - assumed 'valorTotal' (this will throw an Error in a future version of PHP) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 01:15:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:16:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:18:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:26:40 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 01:26:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:27:05 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 01:27:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:28:25 UTC] PHP Warning:  Illegal offset type in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 01:28:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:28:48 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 01:28:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:31:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:31:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:32:59 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 01:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 01:39:28 UTC] PHP Warning:  Illegal offset type in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 01:39:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 01:40:18 UTC] PHP Recoverable fatal error:  Object of class CPedido could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 01:50:10 UTC] PHP Recoverable fatal error:  Object of class CPedido could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 01:50:17 UTC] PHP Recoverable fatal error:  Object of class CPedido could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 01:51:06 UTC] PHP Recoverable fatal error:  Object of class CPedido could not be converted to string in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 02:13:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(199): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:18:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(199): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:19:11 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 02:19:11 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 02:19:11 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 02:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:200
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:20:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(199): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:20:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(199): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:25:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(199): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:28:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 1 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(199): Retorno->__construct('')
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:28:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 2 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(199): Retorno->__construct('', '')
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:28:45 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:28:45 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:28:45 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:28:45 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:28:45 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:28:45 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:28:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 02:30:02 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 02:30:02 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 02:30:02 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 02:30:02 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:30:02 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:30:02 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:30:02 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:30:02 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:30:02 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:30:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 02:30:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(199): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:35:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(199): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:35:59 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 02:35:59 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 02:35:59 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 199
+[29-May-2020 02:35:59 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:35:59 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:35:59 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:35:59 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:35:59 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:35:59 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:35:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 02:36:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 198 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(198): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:37:00 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 02:37:00 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 02:37:00 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 02:37:00 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:37:00 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:37:00 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:37:00 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:37:00 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:37:00 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:37:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 02:43:03 UTC] PHP Warning:  require_once(/home/u208484937/domains/guilhermedouglas.com/public_html/src/base/retorno.php): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[29-May-2020 02:43:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u208484937/domains/guilhermedouglas.com/public_html/src/base/retorno.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 7
+[29-May-2020 02:43:20 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:43:20 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:43:20 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:43:20 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:43:20 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:43:20 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:43:20 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:43:20 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:43:20 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:43:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 02:45:39 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:45:39 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:45:39 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:45:39 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:45:39 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:45:39 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:45:39 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:45:39 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:45:39 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:45:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 02:46:34 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:46:34 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:46:34 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:46:34 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:46:34 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 02:46:34 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:46:34 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 02:46:34 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:46:34 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 02:46:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 02:48:16 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:48:16 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:48:16 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:48:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 02:49:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(200): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:50:14 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 11
+[29-May-2020 02:50:14 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 12
+[29-May-2020 02:50:14 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 13
+[29-May-2020 02:50:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 02:50:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(200): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:52:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(200): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 02:52:20 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:52:20 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:52:20 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:52:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 02:52:33 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:52:33 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:52:33 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:52:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 02:53:57 UTC] PHP Notice:  Undefined variable: stringvet in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 02:53:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 02:54:20 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:54:20 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:54:20 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:54:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 02:54:22 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:54:22 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:54:22 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 02:54:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 201 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(201): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 02:54:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::__construct(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:9
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(200): Retorno->__construct()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 9
+[29-May-2020 03:15:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:15:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:16:14 UTC] PHP Notice:  Undefined index: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 210
+[29-May-2020 03:16:14 UTC] PHP Notice:  Undefined index: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 211
+[29-May-2020 03:16:14 UTC] PHP Notice:  Undefined index: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 212
+[29-May-2020 03:16:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:16:28 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:16:28 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:16:28 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 200
+[29-May-2020 03:16:28 UTC] PHP Notice:  Undefined index: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 210
+[29-May-2020 03:16:28 UTC] PHP Notice:  Undefined index: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 211
+[29-May-2020 03:16:28 UTC] PHP Notice:  Undefined index: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 212
+[29-May-2020 03:16:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:23:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:25:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:202
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 202
+[29-May-2020 03:27:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:203
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 03:30:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:203
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 03:31:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:204
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 03:31:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:204
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 03:32:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:204
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 03:33:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:203
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 03:33:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:203
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 03:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:203
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 03:38:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:203
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 03:38:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 03:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:206
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 03:49:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:50:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 03:56:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:204
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 03:57:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function executarAcao() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:204
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 04:00:32 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:00:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:00:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:03:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:04:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 04:12:27 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:12:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(205): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 04:13:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(206): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 04:27:33 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:27:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:28:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:206
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 04:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:37:32 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 04:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:11:54 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:13:37 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:13:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:13:41 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:26:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::CPedido() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:203
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 05:26:50 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 05:26:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:203
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 203
+[29-May-2020 05:28:22 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 20
+[29-May-2020 05:28:22 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:28:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:28:33 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:205
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 05:30:39 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:30:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:206
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:32:03 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:206
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:33:43 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:206
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:33:58 UTC] PHP Notice:  Undefined variable: saida in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function converterRegistroParaJson() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:206
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:36:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CPedido::executarAcao(), 1 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206 and exactly 2 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:19
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(206): CPedido->executarAcao(Object(Retorno))
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 19
+[29-May-2020 05:37:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function converterRegistroParaJson() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:206
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:38:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(206): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 05:39:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 211
+[29-May-2020 05:40:12 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:40:12 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:40:12 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:40:12 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:40:12 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:40:12 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:40:12 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:40:12 UTC] PHP Notice:  Undefined offset: 0 in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:40:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:40:57 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:40:57 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:40:57 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:40:57 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:40:57 UTC] PHP Notice:  Undefined offset: 0 in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:40:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:42:03 UTC] PHP Notice:  Undefined index: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:42:03 UTC] PHP Notice:  Undefined index: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:42:03 UTC] PHP Notice:  Undefined index: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:42:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:42:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Retorno::converterRegistroParaJson(), 0 passed in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206 and exactly 3 expected in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php:47
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(206): Retorno->converterRegistroParaJson()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#3 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 47
+[29-May-2020 05:43:32 UTC] PHP Notice:  Undefined index: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:43:32 UTC] PHP Notice:  Undefined index: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:43:32 UTC] PHP Notice:  Undefined index: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:43:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:45:48 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:45:48 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:45:48 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:45:48 UTC] PHP Notice:  Undefined index: Array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:45:48 UTC] PHP Notice:  Undefined offset: 0 in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:45:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:46:27 UTC] PHP Notice:  Undefined index: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:46:27 UTC] PHP Notice:  Undefined index: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:46:27 UTC] PHP Notice:  Undefined index: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:46:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:47:42 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:47:42 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:47:42 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:47:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:47:54 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:47:54 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:47:54 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:47:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:48:18 UTC] PHP Notice:  Undefined variable: status in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:48:18 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:48:18 UTC] PHP Notice:  Undefined variable: registros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:48:18 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:48:18 UTC] PHP Notice:  Undefined variable: totalRegistros in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:48:18 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:48:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:48:35 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:48:35 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:48:35 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:48:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:49:00 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:49:00 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:49:00 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:49:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:49:22 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 48
+[29-May-2020 05:49:22 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 49
+[29-May-2020 05:49:22 UTC] PHP Notice:  Undefined index:  in /home/u208484937/domains/guilhermedouglas.com/public_html/src/base/Retorno.php on line 50
+[29-May-2020 05:49:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:53:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:53:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:55:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:56:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 05:58:44 UTC] PHP Notice:  Undefined variable: valorFinal in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function executarAcao() on null in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:206
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 05:59:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type CPedido as array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php:89
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(105): MPedido->validarCampos(Object(CPedido))
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(32): CPedido->visualizarPedido(Object(CPedido))
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(206): CPedido->executarAcao('visualizarPedid...', Object(CPedido))
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php on line 89
+[29-May-2020 05:59:19 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type CPedido as array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php:89
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(105): MPedido->validarCampos(Object(CPedido))
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(32): CPedido->visualizarPedido(Object(CPedido))
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(206): CPedido->executarAcao('visualizarPedid...', Object(CPedido))
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php on line 89
+[29-May-2020 06:01:54 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type CPedido as array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php:89
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(105): MPedido->validarCampos(Object(CPedido))
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(32): CPedido->visualizarPedido(Object(CPedido))
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(205): CPedido->executarAcao('visualizarPedid...', Object(CPedido))
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php on line 89
+[29-May-2020 06:02:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:02:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:02:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:03:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encode() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:207
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 207
+[29-May-2020 06:04:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:04:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:05:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:05:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:05:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:06:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:08:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:09:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:10:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:10:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:12:26 UTC] PHP Notice:  Undefined variable: valorFinal in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 207
+[29-May-2020 06:12:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:13:27 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type CPedido as array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php:89
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(105): MPedido->validarCampos(Object(CPedido))
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(32): CPedido->visualizarPedido(Object(CPedido))
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(206): CPedido->executarAcao('visualizarPedid...', Object(CPedido))
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php on line 89
+[29-May-2020 06:15:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:18:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:19:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:19:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:20:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:23:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:23:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:24:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:24:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:24:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:24:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type CPedido as array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php:89
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(105): MPedido->validarCampos(Object(CPedido))
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(32): CPedido->visualizarPedido(Object(CPedido))
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(206): CPedido->executarAcao('visualizarPedid...', Object(CPedido))
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php on line 89
+[29-May-2020 06:24:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type CPedido as array in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php:89
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(105): MPedido->validarCampos(Object(CPedido))
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(32): CPedido->visualizarPedido(Object(CPedido))
+#2 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(206): CPedido->executarAcao('visualizarPedid...', Object(CPedido))
+#3 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once('/home/u20848493...')
+#4 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#5 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/model/MPedido.php on line 89
+[29-May-2020 06:25:06 UTC] PHP Notice:  Undefined variable: valorFinal in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 207
+[29-May-2020 06:25:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:25:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:25:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encode() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:208
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 208
+[29-May-2020 06:26:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:27:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:27:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:27:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:28:33 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 208
+[29-May-2020 06:28:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:28:46 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 208
+[29-May-2020 06:28:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:29:41 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 208
+[29-May-2020 06:29:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:30:33 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 208
+[29-May-2020 06:30:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:34:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:34:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:36:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:37:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:38:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:39:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 204
+[29-May-2020 06:40:20 UTC] PHP Warning:  require_once(/home/u208484937/domains/guilhermedouglas.com/public_html/src/cliente/controller/CUsuario): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 5
+[29-May-2020 06:40:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u208484937/domains/guilhermedouglas.com/public_html/src/cliente/controller/CUsuario' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 5
+[29-May-2020 06:42:15 UTC] PHP Warning:  require_once(/home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 5
+[29-May-2020 06:42:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 5
+[29-May-2020 06:42:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:46:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:48:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:49:34 UTC] PHP Notice:  Undefined variable: valor in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 206
+[29-May-2020 06:49:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:50:30 UTC] PHP Notice:  Undefined index: idpedido in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 205
+[29-May-2020 06:50:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:50:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:51:47 UTC] PHP Notice:  Array to string conversion in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 209
+[29-May-2020 06:51:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:52:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:52:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:55:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:56:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:59:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:59:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 06:59:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 07:00:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 07:01:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 07:03:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 16:25:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 85
+[29-May-2020 16:35:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CPedido::getRegistros() in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php:207
+Stack trace:
+#0 /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/view/VSelecaoFormaPagamento.php(4): require_once()
+#1 /home/u208484937/domains/guilhermedouglas.com/public_html/public/pagamento/selecao_forma_pagamento.php(2): require_once('/home/u20848493...')
+#2 {main}
+  thrown in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 207
+[31-May-2020 23:28:42 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:28:42 UTC] PHP Warning:  Use of undefined constant dados - assumed 'dados' (this will throw an Error in a future version of PHP) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 12
+[31-May-2020 23:29:48 UTC] PHP Warning:  require_once(/home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.php): failed to open stream: No such file or directory in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 9
+[31-May-2020 23:29:48 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 9
+[31-May-2020 23:30:08 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 12
+[31-May-2020 23:30:08 UTC] PHP Warning:  Use of undefined constant dados - assumed 'dados' (this will throw an Error in a future version of PHP) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 13
+[31-May-2020 23:30:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 174
+[31-May-2020 23:30:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.js:1) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 176
+[31-May-2020 23:30:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 182
+[31-May-2020 23:30:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.js:1) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 183
+[31-May-2020 23:30:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[31-May-2020 23:30:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[31-May-2020 23:30:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[31-May-2020 23:30:41 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 12
+[31-May-2020 23:30:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 174
+[31-May-2020 23:30:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.js:1) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 176
+[31-May-2020 23:30:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 182
+[31-May-2020 23:30:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/controller/CPagamento.js:1) in /home/u208484937/domains/guilhermedouglas.com/public_html/src/autenticacao/controller/CUsuario.php on line 183
+[31-May-2020 23:30:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 26
+[31-May-2020 23:30:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 31
+[31-May-2020 23:30:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u208484937/domains/guilhermedouglas.com/public_html/public/assets/layout/header.php on line 42
+[31-May-2020 23:31:07 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:35:44 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:38:29 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:40:20 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:40:47 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11
+[31-May-2020 23:41:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php(11) : eval()'d code on line 1
+[31-May-2020 23:42:05 UTC] PHP Notice:  Undefined index: dados in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pedido/controller/CPedido.php on line 11

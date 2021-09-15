@@ -1,0 +1,3 @@
+[31-May-2020 21:09:03 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/SessaoPagamento.php on line 15
+[31-May-2020 21:09:03 UTC] PHP Warning:  simplexml_load_string(): Bad Gateway in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/SessaoPagamento.php on line 15
+[31-May-2020 21:09:03 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/u208484937/domains/guilhermedouglas.com/public_html/src/pagamento/SessaoPagamento.php on line 15
