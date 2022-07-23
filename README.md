@@ -1,5 +1,10 @@
 # Keyar
-KeyAr is a order manager.
+KeyAr is a order manager, created for the TecPuc TCC 2020.
+
+Alunos:
+
+#### - Guilherme Douglas Beitum
+#### - Andre Felipe
 
 ## Preview
 
