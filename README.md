@@ -10,8 +10,6 @@ Alunos:
 
 ![image](https://user-images.githubusercontent.com/54703843/133378591-a91b04d2-1995-41c1-918c-45ef4e90343a.png)
 
-![image](https://user-images.githubusercontent.com/54703843/133378665-b449f26f-2362-47ee-89db-09bf1658a38f.png)
-
 ![image](https://user-images.githubusercontent.com/54703843/133378457-bef834a3-ed95-4e25-ae9e-83057937df3e.png)
 
 ![image](https://user-images.githubusercontent.com/54703843/133379081-c5a74a11-25e5-43bb-a686-78751a0985d7.png)
