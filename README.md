@@ -1,5 +1,5 @@
 # Keyar
-KeyAr is a order manager, created for the TecPuc TCC 2019.
+KeyAr is a order manager, created for the TecPuc TCC.
 
 Alunos:
 
